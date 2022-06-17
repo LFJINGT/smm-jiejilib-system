@@ -135,8 +135,10 @@ buildNumber.properties
 .metadata
 lib/
 bin/
-.idea/
 out/
 ssm_project/out/
 ssm_project/target/
+ssm_project-master/vue/dist/
+ssm_project-master/vue/node_modules/
+ssm_project-master/vue/.idea/
 
