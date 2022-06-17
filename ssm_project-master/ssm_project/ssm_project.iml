@@ -61,6 +61,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-test:5.3.20" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: mysql:mysql-connector-java:8.0.29" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.protobuf:protobuf-java:3.19.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.microsoft.sqlserver:mssql-jdbc:10.2.1.jre8" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.9.9.1" level="project" />
     <orderEntry type="library" name="Maven: org.json:json:20220320" level="project" />
     <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.8.2" level="project" />
